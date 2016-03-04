@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{04BC98DB-3747-23DD-D397-4ABED721BED9}") = "VR_Startup_Git", "Assembly-CSharp.csproj", "{CDFC3DA9-0427-8767-3DAC-3517AD148C20}"
+EndProject
+Project("{04BC98DB-3747-23DD-D397-4ABED721BED9}") = "VR_Startup_Git", "Assembly-CSharp-Editor.csproj", "{3E0496F4-9E71-CDD4-651A-5F2D3A0ABC9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDFC3DA9-0427-8767-3DAC-3517AD148C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFC3DA9-0427-8767-3DAC-3517AD148C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFC3DA9-0427-8767-3DAC-3517AD148C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFC3DA9-0427-8767-3DAC-3517AD148C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0496F4-9E71-CDD4-651A-5F2D3A0ABC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0496F4-9E71-CDD4-651A-5F2D3A0ABC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0496F4-9E71-CDD4-651A-5F2D3A0ABC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0496F4-9E71-CDD4-651A-5F2D3A0ABC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
